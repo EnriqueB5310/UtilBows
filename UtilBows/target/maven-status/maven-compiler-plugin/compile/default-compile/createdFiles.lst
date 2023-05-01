@@ -1,0 +1,4 @@
+me\barrios\utilbows\UtilBows.class
+me\barrios\utilbows\listeners\TpListener.class
+me\barrios\utilbows\commands\GiveTP.class
+me\barrios\utilbows\util\BowUtils.class

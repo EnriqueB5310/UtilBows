@@ -1,0 +1,9 @@
+name: UtilBows
+version: '${project.version}'
+main: me.barrios.utilbows.UtilBows
+api-version: 1.19
+
+commands:
+  TpBow:
+    usage: /<command>
+    permission: UtilBows.givebow
